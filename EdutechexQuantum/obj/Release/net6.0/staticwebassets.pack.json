@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\6-(2)241145772.png",
+      "PackagePath": "staticwebassets\\images\\6-(2)241145772.png"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\digital-pa230758539.avif",
+      "PackagePath": "staticwebassets\\images\\digital-pa230758539.avif"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\digital-pa230758552.avif",
+      "PackagePath": "staticwebassets\\images\\digital-pa230758552.avif"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images230252721.jpeg",
+      "PackagePath": "staticwebassets\\images\\images230252721.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images230952279.jpeg",
+      "PackagePath": "staticwebassets\\images\\images230952279.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images231426359.jpeg",
+      "PackagePath": "staticwebassets\\images\\images231426359.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images231426361.jpeg",
+      "PackagePath": "staticwebassets\\images\\images231426361.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images231701048.jpeg",
+      "PackagePath": "staticwebassets\\images\\images231701048.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images232031085.jpeg",
+      "PackagePath": "staticwebassets\\images\\images232031085.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images232100650.jpeg",
+      "PackagePath": "staticwebassets\\images\\images232100650.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images232315956.jpeg",
+      "PackagePath": "staticwebassets\\images\\images232315956.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images232526261.jpeg",
+      "PackagePath": "staticwebassets\\images\\images232526261.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images233024821.jpeg",
+      "PackagePath": "staticwebassets\\images\\images233024821.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images233418457.jpeg",
+      "PackagePath": "staticwebassets\\images\\images233418457.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images235449597.jpeg",
+      "PackagePath": "staticwebassets\\images\\images235449597.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\images235610594.jpeg",
+      "PackagePath": "staticwebassets\\images\\images235610594.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\painting-m232127090.avif",
+      "PackagePath": "staticwebassets\\images\\painting-m232127090.avif"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\painting-m235915497.avif",
+      "PackagePath": "staticwebassets\\images\\painting-m235915497.avif"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\pari235008231224993.jpeg",
+      "PackagePath": "staticwebassets\\images\\pari235008231224993.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\pari235008232043921.jpeg",
+      "PackagePath": "staticwebassets\\images\\pari235008232043921.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\pari235008232657428.jpeg",
+      "PackagePath": "staticwebassets\\images\\pari235008232657428.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\pari235008235501877.jpeg",
+      "PackagePath": "staticwebassets\\images\\pari235008235501877.jpeg"
+    },
+    {
+      "Id": "F:\\EdutechexQuantum\\EdutechexQuantum\\EdutechexQuantum\\wwwroot\\images\\thank-you-233440871.jpg",
+      "PackagePath": "staticwebassets\\images\\thank-you-233440871.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.EdutechexQuantum.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.EdutechexQuantum.props",
+      "PackagePath": "build\\EdutechexQuantum.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EdutechexQuantum.props",
+      "PackagePath": "buildMultiTargeting\\EdutechexQuantum.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.EdutechexQuantum.props",
+      "PackagePath": "buildTransitive\\EdutechexQuantum.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
